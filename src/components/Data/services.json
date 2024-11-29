@@ -28,7 +28,7 @@
     },
     {
         "id": 4,
-        "name1": "Wellness",
+        "name1": "Safety &",
         "name2": "Compliance",
         "background": "h-[310px] p-12 bg-zinc-100 rounded-[45px] shadow-card border border-black justify-between items-center flex text-black",
         "arrow": "./services/ag.svg",
