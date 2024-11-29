@@ -29,32 +29,32 @@
         {
             "index": 1,
             "label": "Consultation",
-            "content": "During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements."
+            "content": "We discuss your building's goals, occupant needs, and operational challenges to understand your unique requirements and tailor our services accordingly."
         },
         {
             "index": 2,
-            "label": "Research",
-            "content": "During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements."
+            "label": "Assessment",
+            "content": "Our team conducts a thorough assessment, collecting data on occupant feedback, facility performance, and existing workflows to identify areas for improvement."
         },
         {
             "index": 3,
-            "label": "Implementation",
-            "content": "During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements."
+            "label": "Custom AI Integration",
+            "content": "We design and implement a customized AI solution that seamlessly integrates with your existing systems, enabling real-time data collection and analysis."
         },
         {
             "index": 4,
-            "label": "Optimization",
-            "content": "During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements."
+            "label": "Implementation",
+            "content": "Deploying our AI-driven platform, we set up automated feedback collection and customize workflows to align with your goals and occupant needs."
         },
         {
             "index": 5,
-            "label": "Reporting",
-            "content": "During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements."
+            "label": "Optimization",
+            "content": "Continuous monitoring allows us to fine-tune the system, ensuring optimal performance, enhanced occupant satisfaction, and adherence to well-being standards."
         },
         {
             "index": 6,
-            "label": "Improvement",
-            "content": "During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements."
+            "label": "Ongoing Support and Improvement",
+            "content": "We provide ongoing support, updates, and recommendations to help you stay ahead, plan proactive maintenance, and inform future projects with data-driven insights."
         }
     ]
 }
