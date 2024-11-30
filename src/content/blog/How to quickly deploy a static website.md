@@ -1,5 +1,5 @@
 ---
-title: 'How to quickly deploy a static website'
+title: 'How to create customized AI workflow'
 pubDate: 2024-01-20
 author: 'Jese Leos'
 authImage: 'https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/jese-leos.png'
