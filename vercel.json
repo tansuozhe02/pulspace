@@ -7,7 +7,10 @@
       }
     ],
     "functions": {
-      "_render": {
+      "_render.js": {
+        "runtime": "nodejs18.x"
+      },
+      "_render.ts": {
         "runtime": "nodejs18.x"
       },
       "api/**/*.js": {
@@ -17,8 +20,11 @@
         "runtime": "nodejs18.x"
       }
     },
-    "env": {
-      // Add your environment variables here if needed
-    }
+    "routes": [
+      {
+        "src": "/(.*)",
+        "dest": "/_render"
+      }
+    ]
   }
   
